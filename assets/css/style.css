@@ -25,7 +25,7 @@ body {
     height: 200px;
     width: 550px;
     background-attachment: transparent;
-    border-radius: 15px;
+    border-radius: 20px;
     box-shadow: 0px 8px 10px rgba(0, 0, 0,.5);
 }
 
@@ -40,7 +40,7 @@ body {
     color: #fff;
     background: #0e172c;
     box-shadow: 5px 5px 15px #000;
-    border-radius: 15px;
+    border-radius: 20px;
     letter-spacing: 3px;
 }
 
