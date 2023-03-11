@@ -8,7 +8,11 @@
 
 body {
     height: 100vh;
-    background-color: #f4f6f5;
+    background-color: #fec7d7;
+    background-image: url('/assets/img/StockSnap_FSOBBNPKKZ.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -21,7 +25,7 @@ body {
     height: 200px;
     width: 550px;
     background-attachment: transparent;
-    border-radius: 3px;
+    border-radius: 15px;
     box-shadow: 0px 8px 10px rgba(0, 0, 0,.5);
 }
 
@@ -34,9 +38,9 @@ body {
     justify-content: center;
     font-size: 60px;
     color: #fff;
-    background: #000;
+    background: #0e172c;
     box-shadow: 5px 5px 15px #000;
-    border-radius: 7px;
+    border-radius: 15px;
     letter-spacing: 3px;
 }
 
